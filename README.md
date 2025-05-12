@@ -55,3 +55,7 @@ Name: "{group}\Desinstalar Prometey"; Filename: "{uninstallexe}"
 [Run]
 Filename: "{app}\prometey.exe"; Description: "Iniciar Prometey"; Flags: nowait postinstall skipifsilent
 ```
+
+## Example
+
+![image](https://github.com/user-attachments/assets/2021606b-b50a-4c9d-9f08-8a8e5fb85c2f)
