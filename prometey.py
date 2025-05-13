@@ -7,7 +7,7 @@ from PyQt5.QtWidgets import (
 )
 from PyQt5.QtGui import QIcon
 
-# from iqoptionapi.stable_api import IQ_Option
+from iqoptionapi.stable_api import IQ_Option
 from datetime import datetime
 
 class Prometey(QWidget):
